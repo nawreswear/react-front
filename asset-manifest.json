@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-front/static/css/main.df0977db.css",
+    "main.js": "/react-front/static/js/main.5bd9e342.js",
+    "static/media/cart.png": "/react-front/static/media/cart.427f0fe88453c51d151d.png",
+    "static/media/ee.png": "/react-front/static/media/ee.93a47fcef7a1d570555e.png",
+    "index.html": "/react-front/index.html",
+    "main.df0977db.css.map": "/react-front/static/css/main.df0977db.css.map",
+    "main.5bd9e342.js.map": "/react-front/static/js/main.5bd9e342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0977db.css",
+    "static/js/main.5bd9e342.js"
+  ]
+}
